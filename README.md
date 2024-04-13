@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I am a great chef.**
 
 
-<h3 align="center"># 💻 Tech Stack:</h3>
+# 💻 Tech Stack:
 <div align="center"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> 
@@ -86,18 +86,19 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashirafzal&show_icons=true&locale=en&layout=compact" alt="hashirafzal" /></p>
 
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashirafzal&" alt="hashirafzal" /></p>
 
 
 ### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
 ### 😂 Random Dev Memes
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/><br>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
