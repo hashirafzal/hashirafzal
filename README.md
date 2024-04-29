@@ -87,7 +87,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashirafzal&show_icons=true&locale=en&layout=compact" alt="hashirafzal" />
 
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashirafzal&" alt="hashirafzal" />
+
+
 
 
 ### ✍️ Random Dev Quotes
@@ -95,8 +96,5 @@
 
 
 
-
-### 😂 Random Dev Memes
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
