@@ -82,18 +82,22 @@
     </a> 
 </div>
 
-
+<br>
+<div  align="center">
+    
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashirafzal&show_icons=true&locale=en&layout=compact" alt="hashirafzal" />
 
 <br>
+</div>
 
 
-
+<div  align="center">
 
 ### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
 
 
 
